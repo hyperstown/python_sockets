@@ -5,7 +5,7 @@ App is containing:
 - Proxy (Also work as DNS)
 - Client
 
-Client is sending 36-byte message that is being encoded and sent via socket. Proxy is interpreting query and passes message to a server. Server is decoding message then passes it to designed function. After making changes in string message is encoded and sent to client.
+Client is sending 1024-byte message that is being encoded and sent via socket. Proxy is interpreting query and passes message to a server. Server is decoding message then passes it to designed function. After making changes in string message is encoded and sent to client.
 
 #
 
