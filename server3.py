@@ -25,7 +25,9 @@ def action(data):
             words[i] = "Hello"
             words.append("I'm")
             words.append("Dad")
-        
+            del words[:i]
+            break
+
     r = " ".join(words)
     #decoded_data.msg += " Welcome to dadjokes.com"
     decoded_data.msg = r
