@@ -4,7 +4,8 @@ import random
 
 sct = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-IP = socket.gethostbyname(socket.gethostname())
+#IP = socket.gethostbyname(socket.gethostname())
+IP = "0.0.0.0"
 
 
 port = 4442

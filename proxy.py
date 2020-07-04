@@ -13,7 +13,7 @@ def redirect(data):
         "encryption.com": {"192.168.18.2":4444},
         "mylog.com": {"192.168.18.2":4443},
         "givemerandom.com": {"192.168.18.2":4442},
-        "dadjokes.com": {"192.168.18.2":4441},
+        "dadjokes.com": {"192.168.18.4":4441},
     }
 
     IP = {}
