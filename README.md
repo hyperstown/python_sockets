@@ -11,7 +11,7 @@ Client is sending 1024-byte message that is being encoded and sent via socket. P
 
 ### Sources:
 
-- [YouTube socet series](https://www.youtube.com/watch?v=Lbfe3-v7yE0&list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5&index=1)
+- [YouTube socket series](https://www.youtube.com/watch?v=Lbfe3-v7yE0&list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5&index=1)
 
 - [Old blog](
     https://pymotw.com/2/socket/tcp.html
